@@ -1,3 +1,5 @@
+**Fixed in smol 0.1.13**
+
 Run server with:
 
 ```
